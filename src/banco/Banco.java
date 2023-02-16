@@ -6,7 +6,7 @@
 package banco;
 
 /**
- *
+ * GODYON
  * @author Zaurus
  */
 public class Banco {
