@@ -12,7 +12,7 @@ import java.sql.SQLException;
 
 /**
  *
- * @author lv1013
+ * @author Ángel, Luis Pablo
  */
 public class ConexionBD implements IConexionBD{
     
