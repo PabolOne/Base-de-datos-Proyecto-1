@@ -21,7 +21,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author lv1013
+ * @author ÁNGEL, LUIS PABLO
  */
 public class ClientesForm extends javax.swing.JFrame {
 
